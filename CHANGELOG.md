@@ -34,6 +34,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
   - passive/find_reflected_params.py
   - passive/HUNT.py
   - passive/Mutliple Security Header Check.js
+  - passive/google_api_keys_finder.js
+  - passive/JavaDisclosure.js
+  - passive/Report non static sites.js
+  - passive/RPO.js
+  - passive/s3.js
 
 ## [18] - 2024-01-29
 ### Added
